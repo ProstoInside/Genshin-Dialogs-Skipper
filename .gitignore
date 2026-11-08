@@ -1,0 +1,12 @@
+# Сборка Rust
+/target
+
+# Python-окружение от первой версии
+/.venv
+
+# Редакторы и система
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
